@@ -1,0 +1,41 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.primery{
+	width:100%;
+	background-color:#0c381b;
+    padding: 30px;
+}
+	
+.head h2{
+	text-align:center;
+	color:white;
+	font-style:bold;
+	margin:0;
+}
+.head p{
+	text-align:center;
+	color:white;
+	font-style:bold;
+	margin:10px 0;
+	font-style:italic;
+}
+
+
+form{
+	background-color:#11203157;
+	width:50%;
+	margin:auto;
+	padding:20px;
+    color:white;
+}
+.boxbr {
+    width:100%; 
+}
+.submit {
+	background-color:rgb(0, 114, 57);
+    width:100%;
+    padding: 5px;
+}
